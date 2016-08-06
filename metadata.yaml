@@ -1,0 +1,33 @@
+_repo: The-Works-of-John-Greenleaf-Whittier-Volume-VII-Complete--13-The-Conflict-with-Slavery-Politic__9599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whittier, John Greenleaf
+    aliases:
+    - Whittier, J. G. (John Greenleaf)
+    - Whittier, John G. (John Greenleaf)
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '455'
+    url: http://www.gutenberg.org/2009/agents/455
+    wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
+description: Includes eBooks 9594-9598.
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature'
+- !lcsh 'Slavery -- United States'
+- !lcc 'PS'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Antislavery movements -- United States'
+- GITenberg
+title: "The Works of John Greenleaf Whittier, Volume VII, Complete\r\nThe Conflict\
+  \ with Slavery, Politics and Reform, the Inner Life, and Criticism"
+url: http://www.gutenberg.org/ebooks/9599
