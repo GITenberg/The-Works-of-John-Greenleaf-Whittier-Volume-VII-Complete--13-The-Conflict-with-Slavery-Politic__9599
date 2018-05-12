@@ -1,5 +1,8 @@
 _repo: The-Works-of-John-Greenleaf-Whittier-Volume-VII-Complete--13-The-Conflict-with-Slavery-Politic__9599
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: Includes eBooks 9594-9598.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9599#The-Works-of-John-Greenleaf-Whittier-Volume-VII-Complete--13-The-Conflict-with-Slavery-Politic_
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
